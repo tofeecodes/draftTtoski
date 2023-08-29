@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "255407023596",
+    "project_id": "troski-57a6a",
+    "storage_bucket": "troski-57a6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255407023596:android:5c16fe4bbf5c895b738cc9",
+        "android_client_info": {
+          "package_name": "com.example.troski_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255407023596-vs4ctg70g8n97vnkrptddo3sl6bpmepm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.troski_test",
+            "certificate_hash": "bd216a349c426e1f015272f708f1c45a5b9db6db"
+          }
+        },
+        {
+          "client_id": "255407023596-j1p4of46suohveoeo9a0m57klu4jl8lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Eb9J4pvVSfrW_AibrkgZ_F_cb1xPu-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255407023596-j1p4of46suohveoeo9a0m57klu4jl8lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
